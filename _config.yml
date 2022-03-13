@@ -1,0 +1,43 @@
+title: "Optimization methods"
+baseurl: ""
+url: "https://msai22.fmin.xyz"
+logo: "/images/logo.svg"
+search_enabled: false
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on Github"
+gh_edit_repository: "https://github.com/MerkulovDaniil/msai22" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+# Aux links for the upper right navigation
+aux_links:
+  "fmin.xyz":
+    - "https://fmin.xyz"
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+plugins:
+  - jekyll-seo-tag
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+  # ignore:
+  #   envs: all
+
+theme: jekyll-theme-cayman
