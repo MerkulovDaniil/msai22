@@ -30,7 +30,7 @@ Classes are taken online twice a week for an hour and a half. In the lecture ses
 <tbody>
   <tr>
     <td>Brief recap of matrix calculus.</td>
-    <td>Examples of matrix and vector derivatives. <a href="https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/6_3.ipynb" class="btn">🐍 code</a> </td>
+    <td>Examples of matrix and vector derivatives. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/6_3.ipynb" class="btn">🐍 code</a> </td>
   </tr>
   <tr>
     <td>Idea of automatic differentiation.</td>
