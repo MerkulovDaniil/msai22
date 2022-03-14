@@ -12,12 +12,6 @@ Classes are taken online twice a week for an hour and a half. In the lecture ses
 
 ## Program
 
-### Week 0
-
-| Градиентный спуск. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/6_01.ipynb){: .btn} | Практика: Одномерный поиск для выбора гиперпараметров модели машинного обучения. Реализация метода градиентного спуска и иследование его численных свойств на задаче выбора оптимальных координат. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/6_1.ipynb){: .btn} |
-| Субградиент. Субдифференциал.  [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/6_02.ipynb){: .btn} | Практика: Подсчет субградиентов. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/6_2.ipynb){: .btn}
-| Метод проекции субградиента. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/6_03.ipynb){: .btn} | Практика: Support Vector Machine как задача оптимизации. Lasso regression. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/6_3.ipynb){: .btn} |
-
 ### Week 1
 
 <table>
