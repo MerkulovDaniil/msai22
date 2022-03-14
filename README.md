@@ -1,5 +1,5 @@
 ---
-title: 🏡 Главная
+title: 🏡 Home
 permalink: /
 nav_order: 1
 ---
@@ -29,21 +29,37 @@ Classes are taken online twice a week for an hour and a half. In the lecture ses
 </thead>
 <tbody>
   <tr>
-    <td>Brief recap of matrix calculus. <br> <a href="/presentations/1_1.pdf" class="btn">📄 Материалы</a> <a href="/notes/1_1.pdf" class="btn">📝 Записи</a> <a href="#" class="btn">📼 Видео</a></td>
-    <td>Examples of matrix and vector derivatives. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/6_3.ipynb" class="btn">🐍 code</a> </td>
+    <td>Brief recap of matrix calculus. <br> <a href="/presentations/1_1.pdf" class="btn">📄 presentation </a> <a href="/notes/1_1.pdf" class="btn">📝 notes</a> <a href="#" class="btn">📼 video</a></td>
+    <td>Examples of matrix and vector derivatives. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/1_1.ipynb" class="btn">🐍 code</a> </td>
   </tr>
   <tr>
-    <td>Idea of automatic differentiation. <br> <a href="/presentations/1_2.pdf" class="btn">📄 Материалы</a> <a href="/notes/1_2.pdf" class="btn">📝 Записи</a> <a href="#" class="btn">📼 Видео</a></td>
-    <td>Work with automatic differentiation libraries - jax, pytorch, autograd. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/6_3.ipynb" class="btn">🐍 code</a></td>
+    <td>Idea of automatic differentiation. <br> <a href="/presentations/1_2.pdf" class="btn">📄 presentation</a> <a href="/notes/1_2.pdf" class="btn">📝 notes</a> <a href="#" class="btn">📼 video</a></td>
+    <td>Work with automatic differentiation libraries - jax, pytorch, autograd. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/1_2.ipynb"  class="btn">🐍 code</a></td>
   </tr>
 </tbody>
 </table>
 
-| 🦄 Lecture | 🏛 Seminar |
-| Brief recap of matrix calculus. | Examples of matrix and vector derivatives. | 
-| Idea of automatic differentiation. | Work with automatic differentiation libraries - jax, pytorch, autograd. |
-
 ### Week 2
+
+
+<table>
+<thead>
+  <tr>
+    <th>🦄 Lecture</th>
+    <th>🏛 Seminar</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Brief recap of matrix calculus. <br> <a href="/presentations/1_1.pdf" class="btn">📄 presentation </a> <a href="/notes/1_1.pdf" class="btn">📝 notes</a> <a href="#" class="btn">📼 video</a></td>
+    <td>Examples of matrix and vector derivatives. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/1_1.ipynb" class="btn">🐍 code</a> </td>
+  </tr>
+  <tr>
+    <td>Idea of automatic differentiation. <br> <a href="/presentations/1_2.pdf" class="btn">📄 presentation</a> <a href="/notes/1_2.pdf" class="btn">📝 notes</a> <a href="#" class="btn">📼 video</a></td>
+    <td>Work with automatic differentiation libraries - jax, pytorch, autograd. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/1_2.ipynb"  class="btn">🐍 code</a></td>
+  </tr>
+</tbody>
+</table>
 
 | 🦄 Lecture | 🏛 Seminar |
 | Markowitz portfolio theory. | Financial portfolio optimization based on the actual stock market data. | 
@@ -51,32 +67,115 @@ Classes are taken online twice a week for an hour and a half. In the lecture ses
 
 ### Week 3
 
+
+<table>
+<thead>
+  <tr>
+    <th>🦄 Lecture</th>
+    <th>🏛 Seminar</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Brief recap of matrix calculus. <br> <a href="/presentations/1_1.pdf" class="btn">📄 presentation </a> <a href="/notes/1_1.pdf" class="btn">📝 notes</a> <a href="#" class="btn">📼 video</a></td>
+    <td>Examples of matrix and vector derivatives. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/1_1.ipynb" class="btn">🐍 code</a> </td>
+  </tr>
+  <tr>
+    <td>Idea of automatic differentiation. <br> <a href="/presentations/1_2.pdf" class="btn">📄 presentation</a> <a href="/notes/1_2.pdf" class="btn">📝 notes</a> <a href="#" class="btn">📼 video</a></td>
+    <td>Work with automatic differentiation libraries - jax, pytorch, autograd. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/1_2.ipynb"  class="btn">🐍 code</a></td>
+  </tr>
+</tbody>
+</table>
+
 | 🦄 Lecture | 🏛 Seminar |
 | Introduction to Mixed Integer Programming. | Knapsack problem. |
 | Zero order methods and global optimization illustration. | Hyperparameter search for neural network training in Keras with Optuna library.  | 
 
 ### Week 4
 
-| 🦄 Lecture | 🏛 Seminar |
-|  |  | 
-|  |  |
+
+<table>
+<thead>
+  <tr>
+    <th>🦄 Lecture</th>
+    <th>🏛 Seminar</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Brief recap of matrix calculus. <br> <a href="/presentations/1_1.pdf" class="btn">📄 presentation </a> <a href="/notes/1_1.pdf" class="btn">📝 notes</a> <a href="#" class="btn">📼 video</a></td>
+    <td>Examples of matrix and vector derivatives. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/1_1.ipynb" class="btn">🐍 code</a> </td>
+  </tr>
+  <tr>
+    <td>Idea of automatic differentiation. <br> <a href="/presentations/1_2.pdf" class="btn">📄 presentation</a> <a href="/notes/1_2.pdf" class="btn">📝 notes</a> <a href="#" class="btn">📼 video</a></td>
+    <td>Work with automatic differentiation libraries - jax, pytorch, autograd. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/1_2.ipynb"  class="btn">🐍 code</a></td>
+  </tr>
+</tbody>
+</table>
 
 ### Week 5
 
-| 🦄 Lecture | 🏛 Seminar |
-|  |  | 
-|  |  |
+<table>
+<thead>
+  <tr>
+    <th>🦄 Lecture</th>
+    <th>🏛 Seminar</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Brief recap of matrix calculus. <br> <a href="/presentations/1_1.pdf" class="btn">📄 presentation </a> <a href="/notes/1_1.pdf" class="btn">📝 notes</a> <a href="#" class="btn">📼 video</a></td>
+    <td>Examples of matrix and vector derivatives. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/1_1.ipynb" class="btn">🐍 code</a> </td>
+  </tr>
+  <tr>
+    <td>Idea of automatic differentiation. <br> <a href="/presentations/1_2.pdf" class="btn">📄 presentation</a> <a href="/notes/1_2.pdf" class="btn">📝 notes</a> <a href="#" class="btn">📼 video</a></td>
+    <td>Work with automatic differentiation libraries - jax, pytorch, autograd. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/1_2.ipynb"  class="btn">🐍 code</a></td>
+  </tr>
+</tbody>
+</table>
+
 ### Week 6
 
-| 🦄 Lecture | 🏛 Seminar |
-| Stochastic gradient descent method. Batches, epochs, scheduling. Nesterov Momentum and Polyak Momentum. Accelerated Gradient Method. Adaptive Stochastic Methods: Adam, RMSProp, AdaDelta. | The convergence of SGD.  Hyperparameter choice. Convergence study of accelerated methods in learning neural networks. A study of the convergence of adaptive methods in the training of neural networks. | 
-|  |  |
+
+<table>
+<thead>
+  <tr>
+    <th>🦄 Lecture</th>
+    <th>🏛 Seminar</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Brief recap of matrix calculus. <br> <a href="/presentations/1_1.pdf" class="btn">📄 presentation </a> <a href="/notes/1_1.pdf" class="btn">📝 notes</a> <a href="#" class="btn">📼 video</a></td>
+    <td>Examples of matrix and vector derivatives. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/1_1.ipynb" class="btn">🐍 code</a> </td>
+  </tr>
+  <tr>
+    <td>Idea of automatic differentiation. <br> <a href="/presentations/1_2.pdf" class="btn">📄 presentation</a> <a href="/notes/1_2.pdf" class="btn">📝 notes</a> <a href="#" class="btn">📼 video</a></td>
+    <td>Work with automatic differentiation libraries - jax, pytorch, autograd. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/1_2.ipynb"  class="btn">🐍 code</a></td>
+  </tr>
+</tbody>
+</table>
 
 ### Week 7
 
-| 🦄 Lecture | 🏛 Seminar |
-|  |  | 
-|  |  |
+<table>
+<thead>
+  <tr>
+    <th>🦄 Lecture</th>
+    <th>🏛 Seminar</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Brief recap of matrix calculus. <br> <a href="/presentations/1_1.pdf" class="btn">📄 presentation </a> <a href="/notes/1_1.pdf" class="btn">📝 notes</a> <a href="#" class="btn">📼 video</a></td>
+    <td>Examples of matrix and vector derivatives. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/1_1.ipynb" class="btn">🐍 code</a> </td>
+  </tr>
+  <tr>
+    <td>Idea of automatic differentiation. <br> <a href="/presentations/1_2.pdf" class="btn">📄 presentation</a> <a href="/notes/1_2.pdf" class="btn">📝 notes</a> <a href="#" class="btn">📼 video</a></td>
+    <td>Work with automatic differentiation libraries - jax, pytorch, autograd. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/1_2.ipynb"  class="btn">🐍 code</a></td>
+  </tr>
+</tbody>
+</table>
 
 * [📧 Chat](https://t.me/+kokUwlZ9ClBlYWZi)
 * [👨‍💻 Github](https://github.com/MerkulovDaniil/msai22)
