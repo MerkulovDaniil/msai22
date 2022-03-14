@@ -29,12 +29,12 @@ Classes are taken online twice a week for an hour and a half. In the lecture ses
 </thead>
 <tbody>
   <tr>
-    <td>Brief recap of matrix calculus.</td>
+    <td>Brief recap of matrix calculus. <br> <a href="/presentations/1_1.pdf" class="btn">📄 Материалы</a> <a href="/notes/1_1.pdf" class="btn">📝 Записи</a> <a href="#" class="btn">📼 Видео</a></td>
     <td>Examples of matrix and vector derivatives. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/6_3.ipynb" class="btn">🐍 code</a> </td>
   </tr>
   <tr>
-    <td>Idea of automatic differentiation.</td>
-    <td>Work with automatic differentiation libraries - jax, pytorch, autograd.</td>
+    <td>Idea of automatic differentiation. <br> <a href="/presentations/1_2.pdf" class="btn">📄 Материалы</a> <a href="/notes/1_2.pdf" class="btn">📝 Записи</a> <a href="#" class="btn">📼 Видео</a></td>
+    <td>Work with automatic differentiation libraries - jax, pytorch, autograd. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/6_3.ipynb" class="btn">🐍 code</a></td>
   </tr>
 </tbody>
 </table>
