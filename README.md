@@ -12,7 +12,7 @@ Classes are taken online twice a week for an hour and a half. In the lecture ses
 
 ## Program
 
-Introductory session. [📝 Notes](/notes/intro_info.pdf). [📼 Video]()
+Introductory session. [📝 Notes](/notes/intro_info.pdf). [📼 Video](https://youtu.be/Q7e4brrZgww)
 
 ### Week 1
 
