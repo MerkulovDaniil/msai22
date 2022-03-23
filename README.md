@@ -35,5 +35,26 @@ Introductory session. [📝 Notes](/notes/intro_info.pdf). [📼 Video](https://
 </tbody>
 </table>
 
+### Week 2
+
+<table>
+<thead>
+  <tr>
+    <th>🦄 Lecture</th>
+    <th>🏛 Seminar</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Markowitz portfolio theory <br> <a href="/presentations/2_1.pdf" class="btn">📄 presentation </a> <a href="/notes/2_1.pdf" class="btn">📝 notes</a> <a href="#" class="btn">📼 video</a></td>
+    <td>Building a portfolio based on a real-world data. <br> <a href="#" class="btn">📼 video</a> <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/2_1.ipynb" class="btn">🐍 code</a> </td>
+  </tr>
+  <tr>
+    <td>Applications of linear programming. <br> <a href="/presentations/2_2.pdf" class="btn">📄 presentation</a> <a href="/notes/2_2.pdf" class="btn">📝 notes</a>  <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/2_2_LP.ipynb"  class="btn">🐍 code</a> <a href="#" class="btn">📼 video</a></td>
+    <td>LP applications exercises: selecting TED talks as LP, production planning. <br> <a href="#" class="btn">📼 video</a><a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/2_2.ipynb"  class="btn">🐍 code</a></td>
+  </tr>
+</tbody>
+</table>
+
 * [📧 Chat](https://t.me/+kokUwlZ9ClBlYWZi)
 * [👨‍💻 Github](https://github.com/MerkulovDaniil/msai22)
