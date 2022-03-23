@@ -24,11 +24,11 @@ Classes are taken online twice a week for an hour and a half. In the lecture ses
 <tbody>
   <tr>
     <td>Brief recap of matrix calculus. <br> <a href="/presentations/1_1.pdf" class="btn">📄 presentation </a> <a href="/notes/1_1.pdf" class="btn">📝 notes</a> <a href="https://youtu.be/Ia0UfweJk5o" class="btn">📼 video</a></td>
-    <td>Examples of matrix and vector derivatives. <br> <a href="https://youtu.be/akVc3ydJBtU" class="btn">📼 video</a>< <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/1_1.ipynb" class="btn">🐍 code</a> </td>
+    <td>Examples of matrix and vector derivatives. <br> <a href="https://youtu.be/akVc3ydJBtU" class="btn">📼 video</a> <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/1_1.ipynb" class="btn">🐍 code</a> </td>
   </tr>
   <tr>
     <td>Idea of automatic differentiation. <br> <a href="/presentations/1_2.pdf" class="btn">📄 presentation</a> <a href="/notes/1_2.pdf" class="btn">📝 notes</a>  <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/1_2_Autograd.ipynb"  class="btn">🐍 code</a> <a href="https://youtu.be/xKRWNgEPYNo" class="btn">📼 video</a></td>
-    <td>Work with automatic differentiation libraries - jax, pytorch, autograd. <br> <a href="https://youtu.be/akVc3ydJBtU?t=4253" class="btn">📼 video</a>< <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/1_2.ipynb"  class="btn">🐍 code</a></td>
+    <td>Work with automatic differentiation libraries - jax, pytorch, autograd. <br> <a href="https://youtu.be/akVc3ydJBtU?t=4253" class="btn">📼 video</a><a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/1_2.ipynb"  class="btn">🐍 code</a></td>
   </tr>
 </tbody>
 </table>
