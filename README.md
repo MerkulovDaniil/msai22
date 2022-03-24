@@ -63,8 +63,8 @@ Introductory session. [📝 Notes](/notes/intro_info.pdf). [📼 Video](https://
 </thead>
 <tbody>
   <tr>
-    <td>Applications of linear programming. <br> <a href="/presentations/2_2.pdf" class="btn">📄 presentation</a> <a href="/notes/2_2.pdf" class="btn">📝 notes</a> <a href="https://youtu.be/X14e-bFCsac" class="btn">📼 video</a><a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/2_2_LP.ipynb" class="btn">🐍 code</a> </td>
-    <td>LP applications exercises: selecting TED talks as LP, production planning. <br> <a href="https://youtu.be/X14e-bFCsac" class="btn">📼 video</a><a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/2_2.ipynb"  class="btn">🐍 code</a></td>
+    <td>Applications of linear programming. <br> <a href="/presentations/3_1.pdf" class="btn">📄 presentation</a> <a href="/notes/3_1.pdf" class="btn">📝 notes</a> <a href="https://youtu.be/X14e-bFCsac" class="btn">📼 video</a><a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/3_1_LP.ipynb" class="btn">🐍 code</a> </td>
+    <td>LP applications exercises: selecting TED talks as LP, production planning. <br> <a href="https://youtu.be/X14e-bFCsac" class="btn">📼 video</a><a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/3_1.ipynb"  class="btn">🐍 code</a></td>
   </tr>
 </tbody>
 </table>
