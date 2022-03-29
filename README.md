@@ -47,7 +47,7 @@ Introductory session. [📝 Notes](/notes/intro_info.pdf). [📼 Video](https://
 <tbody>
   <tr>
     <td>Markowitz portfolio theory <br> <a href="/presentations/2_1.pdf" class="btn">📄 presentation </a> <a href="/notes/2_1.pdf" class="btn">📝 notes</a> <a href="https://youtu.be/SV-NimfpmQw" class="btn">📼 video</a><a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/2_1_Markowitz_portfolio.ipynb" class="btn">🐍 code</a> </td>
-    <td>Building a portfolio based on a real-world data. <br> <a href="#" class="btn">📼 video</a> <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/2_1.ipynb" class="btn">🐍 code</a> </td>
+    <td>Building a portfolio based on a real-world data. <br> <a href="https://youtu.be/Fqfw0ADRbpk" class="btn">📼 video</a> <a href="https://colab.research.google.com/github/MerkulovDaniil/msai22/blob/main/notebooks/2_1.ipynb" class="btn">🐍 code</a> </td>
   </tr>
 </tbody>
 </table>
