@@ -10,7 +10,6 @@ permalink: /students
 | Alina Golkina   | [🐍 Code](https://colab.research.google.com/drive/1hHjK-XzjtJ_DzPy0KN9aOMliSAz1y2ts?usp=sharing){: .btn } | 0/0 |
 | Alua Musralina   | [🐍 Code](https://colab.research.google.com/drive/1dPw1jyOF3Cap7RGh4jNvQQg8G84DdT6y?usp=sharing){: .btn } | 0/0 |
 | Andrey Leonov   | [🐍 Code](https://colab.research.google.com/drive/1db3i5vXyajO6xaoKok-uBoi8sdY4qa3N?usp=sharing){: .btn } | 0/0 |
-| Aziz Alizada   | [🐍 Code](https://colab.research.google.com/drive/1XN_tSARSaWvkE_azcOCZllpMISP0ZMb8?usp=sharing){: .btn } | 0/0 |
 | Dharmender Rai   | [🐍 Code](https://colab.research.google.com/drive/15C9S3TVza2GLefHdGFFmfiCPg4SLUzbh?usp=sharing){: .btn } | 0/0 |
 | Dmitry Fomin   | [🐍 Code](https://colab.research.google.com/drive/1jUjffQJ2Bz4wMBQjAxGvVfo1rrujS9-a?usp=sharing){: .btn } | 0/0 |
 | Georgy Gunkin   | [🐍 Code](https://colab.research.google.com/drive/1Yb7_KAuAhrQpjsnjUOCM_XRhTP9vEKqw?usp=sharing){: .btn } | 0/0 |
