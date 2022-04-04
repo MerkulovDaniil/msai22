@@ -5,7 +5,6 @@ permalink: /students
 
 | Dared to know     | Notebook | Grade |
 |----------------------|:------------------:|:---:|
-| Albert Luginov   | [🐍 Code](https://colab.research.google.com/drive/1IRe5LgKz4yFiz0zLTzu0gU6M86a7Vgb1?usp=sharing){: .btn } | 0/0 |
 | Alena Karaseva   | [🐍 Code](https://colab.research.google.com/drive/1RrzIStQ2bmFHP4E3nBxqoMD3ANpLRmQv?usp=sharing){: .btn } | 0/0 |
 | Alexey Zyablitsev  | [🐍 Code](https://colab.research.google.com/drive/1fAarUwxlkXHwx8WplmMzf2JHAjjFOc_K?usp=sharing){: .btn } | 0/0 |
 | Alina Golkina   | [🐍 Code](https://colab.research.google.com/drive/1hHjK-XzjtJ_DzPy0KN9aOMliSAz1y2ts?usp=sharing){: .btn } | 0/0 |
