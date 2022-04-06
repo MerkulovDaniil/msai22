@@ -69,6 +69,23 @@ Introductory session. [📝 Notes](/notes/intro_info.pdf). [📼 Video](https://
 </tbody>
 </table>
 
+### Week 4
+
+<table>
+<thead>
+  <tr>
+    <th>🦄 Lecture</th>
+    <th>🏛 Seminar</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Zero order methods: simulated annealing, evolutionary algorithms, genetic algorithm. Idea of Nelder Mead algorithm. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/Global_optimization_illustration.ipynb" class="btn">🐍 code</a> <br> ML models hyperparameter search with nevergrad <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/Nevergrad.ipynb" class="btn">🐍 code</a> and optuna <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/optuna_intro.ipynb" class="btn">🐍 code</a>.<br> <a href="/presentations/4.pdf" class="btn">📄 presentation</a> <a href="/notes/4.pdf" class="btn">📝 notes</a> <a href="" class="btn">📼 video</a></td>
+    <td>ML models Hyperparameter search with optuna and keras. <br> <a href="https://youtu.be/jsJrTo0qYnA" class="btn">📼 video</a><a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/optuna_keras.ipynb" class="btn">🐍 code</a></td>
+  </tr>
+</tbody>
+</table>
+
 
 * [📧 Chat](https://t.me/+kokUwlZ9ClBlYWZi)
 * [👨‍💻 Github](https://github.com/MerkulovDaniil/msai22)
