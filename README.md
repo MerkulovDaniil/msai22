@@ -97,7 +97,7 @@ Introductory session. [📝 Notes](/notes/intro_info.pdf). [📼 Video](https://
 </thead>
 <tbody>
   <tr>
-    <td>Newton method. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/Newton.ipynb" class="btn">🐍 code</a> <br> Quasi-Newton methods. <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/Quasi_Newton.ipynb" class="btn">🐍 code</a>.<br> <a href="/presentations/5.pdf" class="btn">📄 presentation</a> <a href="/notes/5.pdf" class="btn">📝 notes</a> <a href="" class="btn">📼 video</a></td>
+    <td>Newton method. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/Newton.ipynb" class="btn">🐍 code</a> <br> Quasi-Newton methods. <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/Quasi_Newton.ipynb" class="btn">🐍 code</a><br> <a href="/presentations/5.pdf" class="btn">📄 presentation</a> <a href="/notes/5.pdf" class="btn">📝 notes</a> <a href="" class="btn">📼 video</a></td>
     <td>Implementation of the damped Newton method. Finding the analytical center of a set. Convergence study. Comparison with other methods. Benchmarking of quasi-Newtonian methods. <br> <a href="" class="btn">📼 video</a><a href="" class="btn">🐍 code</a></td>
   </tr>
 </tbody>
@@ -115,7 +115,7 @@ Introductory session. [📝 Notes](/notes/intro_info.pdf). [📼 Video](https://
 </thead>
 <tbody>
   <tr>
-    <td>Stochastic gradient descent method. Batches, epochs, schedulers. Nesterov Momentum and Polyak Momentum. Accelerated gradient method. Adaptive stochastic methods. Adam, RMSProp, AdaDelta.<br> <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/Newton.ipynb" class="btn">🐍 code</a>.<br> <a href="/presentations/6.pdf" class="btn">📄 presentation</a> <a href="/notes/6.pdf" class="btn">📝 notes</a> <a href="" class="btn">📼 video</a></td>
+    <td>Stochastic gradient descent method. Batches, epochs, schedulers. Nesterov Momentum and Polyak Momentum. Accelerated gradient method. Adaptive stochastic methods. Adam, RMSProp, AdaDelta.<br> <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/Newton.ipynb" class="btn">🐍 code</a><br> <a href="/presentations/6.pdf" class="btn">📄 presentation</a> <a href="/notes/6.pdf" class="btn">📝 notes</a> <a href="" class="btn">📼 video</a></td>
     <td>A convergence study of the SGD. Hyperparameter tuning. Convergence study of accelerated methods in neural network training.  Convergence study of adaptive methods in neural network training. <br> <a href="" class="btn">📼 video</a><a href="" class="btn">🐍 code</a></td>
   </tr>
 </tbody>
@@ -132,8 +132,8 @@ Introductory session. [📝 Notes](/notes/intro_info.pdf). [📼 Video](https://
 </thead>
 <tbody>
   <tr>
-    <td>Neural Networks. Generative neural networks. Specifics of training. The landscape of the loss function of a neural network.<br> <a href="" class="btn">🐍 code</a>.<br> <a href="/presentations/7.pdf" class="btn">📄 presentation</a> <a href="/notes/7.pdf" class="btn">📝 notes</a> <a href="" class="btn">📼 video</a></td>
-    <td>Neural network fine-tuning aka transfer learning. Neural style transfer. <br> <a href="" class="btn">🐍 code</a> Using GANs to train density distribution on the plane. Generating new pokemons using deep neural networks. <br> <a href="" class="btn">🐍 code</a> Visualizing the projection of the loss function of a neural network on a straight line and a plane. <br> <a href="" class="btn">🐍 code</a> <a href="" class="btn">📼 video</a>
+    <td>Neural Networks. Generative neural networks. Specifics of training. The landscape of the loss function of a neural network.<br> <a href="" class="btn">🐍 code</a><br> <a href="/presentations/7.pdf" class="btn">📄 presentation</a> <a href="/notes/7.pdf" class="btn">📝 notes</a> <a href="" class="btn">📼 video</a></td>
+    <td>Neural network fine-tuning aka transfer learning. Neural style transfer. <br> <a href="" class="btn">🐍 code</a> Using GANs to train density distribution on the plane. Generating new pokemons using deep neural networks. <br> <a href="" class="btn">🐍 code</a> Visualizing the projection of the loss function of a neural network on a straight line and a plane. <br> <a href="" class="btn">🐍 code</a> <a href="" class="btn">📼 video</a> </td>
   </tr>
 </tbody>
 </table>
