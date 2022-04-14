@@ -97,7 +97,7 @@ Introductory session. [📝 Notes](/notes/intro_info.pdf). [📼 Video](https://
 </thead>
 <tbody>
   <tr>
-    <td>Newton method. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/Newton.ipynb" class="btn">🐍 code</a> <br> Quasi-Newton methods. <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/Quasi_Newton.ipynb" class="btn">🐍 code</a><br> <a href="/presentations/5.pdf" class="btn">📄 presentation</a> <a href="/notes/5.pdf" class="btn">📝 notes</a> <a href="" class="btn">📼 video</a></td>
+    <td>Newton method. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/Newton.ipynb" class="btn">🐍 code</a> <br> Quasi-Newton methods. <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/Quasi_Newton.ipynb" class="btn">🐍 code</a><br> <a href="/presentations/5.pdf" class="btn">📄 presentation</a> <a href="/notes/5.pdf" class="btn">📝 notes</a> <a href="https://youtu.be/uXy7EyQZLJA" class="btn">📼 video</a></td>
     <td>Implementation of the damped Newton method. Finding the analytical center of a set. Convergence study. Comparison with other methods. Benchmarking of quasi-Newtonian methods. <br> <a href="" class="btn">📼 video</a><a href="" class="btn">🐍 code</a></td>
   </tr>
 </tbody>
