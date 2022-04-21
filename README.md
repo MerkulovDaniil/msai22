@@ -115,7 +115,7 @@ Introductory session. [📝 Notes](/notes/intro_info.pdf). [📼 Video](https://
 </thead>
 <tbody>
   <tr>
-    <td>Stochastic gradient descent method. Batches, epochs, schedulers. Nesterov Momentum and Polyak Momentum. Accelerated gradient method. Adaptive stochastic methods. Adam, RMSProp, AdaDelta.<br> <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/SGD_and_variations.ipynb" class="btn">🐍 code</a><br> <a href="/presentations/6.pdf" class="btn">📄 presentation</a> <a href="/notes/6.pdf" class="btn">📝 notes</a> <a href="" class="btn">📼 video</a></td>
+    <td>Stochastic gradient descent method. Batches, epochs, schedulers. Nesterov Momentum and Polyak Momentum. Accelerated gradient method. Adaptive stochastic methods. Adam, RMSProp, AdaDelta.<br> <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/SGD_and_variations.ipynb" class="btn">🐍 code</a><br> <a href="/presentations/6.pdf" class="btn">📄 presentation</a> <a href="/notes/6.pdf" class="btn">📝 notes</a> <a href="https://youtu.be/gcZAyV5yuVM" class="btn">📼 video</a></td>
     <td>A convergence study of the SGD. Hyperparameter tuning. Convergence study of accelerated methods in neural network training.  Convergence study of adaptive methods in neural network training. <br> <a href="" class="btn">📼 video</a><a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/SGD_timeseries.ipynb" class="btn">🐍 code</a></td>
   </tr>
 </tbody>
