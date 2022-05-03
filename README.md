@@ -127,13 +127,11 @@ Introductory session. [📝 Notes](/notes/intro_info.pdf). [📼 Video](https://
 <thead>
   <tr>
     <th>🦄 Lecture</th>
-    <th>🏛 Seminar</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Neural Networks. Generative neural networks. Specifics of training. The landscape of the loss function of a neural network.<br> <a href="/notes/7.pdf" class="btn">📝 notes</a> <a href="" class="btn">📼 video</a></td>
-    <td>Neural network fine-tuning aka transfer learning. Neural style transfer. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/NN_applications.ipynb" class="btn">🐍 code</a> Using GANs to train density distribution on the plane. Generating new pokemons using deep neural networks. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/GANs.ipynb" class="btn">🐍 code</a> Visualizing the projection of the loss function of a neural network on a straight line and a plane. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/NN_loss_surface.ipynb" class="btn">🐍 code</a> <a href="https://youtu.be/nKDa2N071Vw" class="btn">📼 video</a> </td>
+    <td>The landscape of the loss function of a neural network. Neural network fine-tuning aka transfer learning. Neural style transfer. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/NN_applications.ipynb" class="btn">🐍 code</a> Using GANs to train density distribution on the plane. Generating new pokemons using deep neural networks. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/GANs.ipynb" class="btn">🐍 code</a> Visualizing the projection of the loss function of a neural network on a straight line and a plane. <br> <a href="https://colab.research.google.com/github/MerkulovDaniil/optim/blob/master/assets/Notebooks/NN_loss_surface.ipynb" class="btn">🐍 code</a> <a href="https://youtu.be/nKDa2N071Vw" class="btn">📼 video</a> </td>
   </tr>
 </tbody>
 </table>
